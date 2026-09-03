@@ -1,0 +1,14 @@
+
+Name of Quantlet: FATED Polymarket - Data Visualization
+
+Published in: FATED Polymarket - Data Visualization
+
+Description: 
+
+Keywords: Prediction Markets, Blockchain, Options, Calibration
+
+Author: Owen Chaffard, Jheng Siang-li, Stefan Gaman
+
+Submitted:  03.09.2026
+
+Datafile: prices_extended.parquet, trades_extended.parquet, market_summary.parquet, binance_hourly_btcusdt.parquet
